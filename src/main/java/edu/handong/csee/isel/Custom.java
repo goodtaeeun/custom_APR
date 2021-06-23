@@ -12,10 +12,10 @@ public class Custom{
     }
 
     public static int adder(int a, int b){
-        // int c;
-        // c = a + b ;
+        int c;
+        c = a + b ;
 
-        return a + b;
+        return c;
     }
 
     public static int subtracter(int a, int b){
