@@ -35,3 +35,6 @@ dependencies {
 
 mainClassName = 'Custom'
 
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8'
+
