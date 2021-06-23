@@ -22,7 +22,7 @@ public class Custom{
         int c;
         c = a - b;
 
-        return c;
+        return a;
     }
 
     public static int multiplier(int a, int b){
